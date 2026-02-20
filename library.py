@@ -12,7 +12,6 @@
 # main loop:
 def main():
     print("Welcome to the library app!")
-    print("please state your command")
     # main loop that runs all the time, until the user exits.
 
 #execution:
